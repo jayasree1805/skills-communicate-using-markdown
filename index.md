@@ -12,3 +12,13 @@
 Hey there! I'm trying out Github markdown :)
 
 ![Image of Sleepy Pikachu](https://shorturl.at/NSbbn)
+
+# Example Code in Python
+
+```python
+def greet(name):
+    print(f"Hello, {name}!")
+
+greet("Jayasree")
+
+
